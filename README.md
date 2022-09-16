@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi8tya" alt="adi8tya" /></a> </p>
 
-- 🔭 I’m currently working on **Dot net**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React Native**
 
 - 📝 I frequently write articles on [https://atozcomputerknowledge.blogspot.com/](https://atozcomputerknowledge.blogspot.com/)
 
-- 💬 Ask me about **Web Designing, Angular js, Coding**
+- 💬 Ask me about **Web Designing, Angular js, Mobile Application Development, Cloud**
 
 - 📫 How to reach me **ak247000@gmail.com**
 
