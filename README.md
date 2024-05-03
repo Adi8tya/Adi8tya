@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ak247000@gmail.com**
 
-- 📄 Know about my experiences [helloaditya.me](helloaditya.me)
+- 📄 Know about my experiences adityakumar2024.me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
